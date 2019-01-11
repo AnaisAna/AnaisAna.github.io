@@ -1,0 +1,175 @@
+body{
+  background-image: url(https://img1.pleinevie.fr/var/pleinevie/storage/images/article/le-mystere-de-la-rose-bleue-enfin-perce-15200/95479-1-fre-FR/Le-mystere-de-la-rose-bleue-enfin-perce_width1024.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+ font-family:Comic Sans MS, monospace;
+ color: #adeee3;
+}
+header{
+margin-top: 100px;
+background-size: 100%;
+height: 100%;
+}
+.Anais{
+  text-align: center;
+  font-size: 40px;
+  margin-top: 40px;
+}
+.Anais a{
+  text-decoration: underline;
+  text-decoration: none;
+  font-size: 25px;
+  color: #adeee3
+}
+.modifimg{
+}
+.Formation-texte{
+text-align: center;
+font-size: 25px;
+text-decoration: underline;
+color: #87bba2
+}
+.Listefor{
+  margin-top: 40px;
+}
+.Liste{
+  margin-left: 30px
+}
+.taquettab{
+  margin-left: 250px;
+}
+.blanc{
+  background-color: rgb(237,237,237,0.2);
+  padding-bottom:3px;
+}
+.couleur1{
+  text-align: center;
+  margin-top: 90px;
+  font-weight: bold;
+}
+.couleur1 a{
+  text-decoration: none;
+  color: #adeee3;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 60px
+}
+.bordure{
+  margin-top: 30px
+}
+.Expetext{
+  margin-top: 40px;
+  text-align: center;
+  font-size: 25px;
+  text-decoration: underline;
+  color: #87bba2
+}
+.Expespa{
+  margin-top: 40px;
+}
+.Expespa p{
+  margin-top:20px;
+  text-align: center;
+}
+  .Expespa span{
+    font-weight: bold;
+    color: #56e39f;
+    text-decoration: underline;
+}
+.blanc1{
+  background-color: rgb(237,237,237,0.2);
+padding-bottom:3px;
+margin height: 150%;
+margin width :150%;
+margin: 150px;
+margin-top: 40px
+}
+.blanc2{
+    background-color: rgb(237,237,237,0.2);
+    padding-bottom:3px;
+}
+.soulignementcomp{
+  text-decoration: underline;
+  text-align: center;
+  font-size: 25px;
+  color: #87bba2
+}
+.bureautique{
+background-color: ##107DBE;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 20px;
+margin: 4px 2px;
+cursor: pointer;
+-webkit-transition-duration: 0.4s; /* Safari */
+transition-duration: 0.4s;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.logistique{
+  background-color: ##107DBE;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.informatique{
+  background-color: ##107DBE;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.taquet{
+  margin-left: 150px
+}
+.Forme1{
+  width:200px;
+	height:200px;
+	background:#069;
+	-webkit-border-radius:100px;
+	-moz-border-radius:100px;
+	-o-border-radius:100px;
+	border-radius:100px;
+}
+.blanc3{
+    background-color: rgb(237,237,237,0.2);
+    padding-bottom:3px;
+}
+.soulignementloi{
+  text-decoration: underline;
+  text-align: center;
+  font-size: 25px;
+  color: #87bba2
+}
+.taquetloi{
+  margin-left: 200px;
+}
+.infocontact{
+    background-color: rgb(237,237,237,0.2);
+    text-align: center;
+}
+.soulignementcontact{
+  text-decoration: underline;
+  font-size: 25px;
+  color: #87bba2
+}
