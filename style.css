@@ -1,8 +1,6 @@
 header{
 background: #17A2B8;
-padding-top: 200px;
-padding-bottom: 180px;
-background-size: 100%;
+padding-top: 10rem;
 height: 100vh;
 font-family:Comic Sans MS, monospace;
 color: #FFFFF6;
@@ -11,9 +9,11 @@ h2{
   text-decoration: underline;
   text-align: center;
   font-size: 40px;
-  margin-bottom: 50px;
   color: #114B5F;
 
+}
+.navbar-light{
+  background-color: "rgb(237,237,237,0.2)";
 }
 .taille{
   font-size: 80px;
