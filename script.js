@@ -3,13 +3,13 @@ $(function(){
   //Je sélectionne mes éléments par leur classe et les cache avec la fonction hide
   $('.category').hide();
   //J'applique l'évènement click aux lien qui ont la classe lien
-  $('.lien').click(function(){
+  $('.link').click(function(){
     $('.category').hide();
     var lienId = '.' + $(this).attr('id');
     $(lienId).show();
   });
     // au clic sur un lien
-    $('a').on('click', function(evt){
+    $('.link').on('click', function(evt){
        // bloquer le comportement par défaut: on ne rechargera pas la page
        evt.preventDefault();
        // enregistre la valeur de l'attribut  href dans la variable target
